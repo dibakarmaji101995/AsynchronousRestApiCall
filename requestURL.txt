@@ -1,0 +1,4 @@
+For Swagger documentation url::
+http://localhost:5050/rest/v2/api-docs
+For Swagger Ui Url::
+http://localhost:5050/rest/swagger-ui.html
